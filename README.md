@@ -22,24 +22,16 @@ Perfect for portfolios, landing pages, and any project that needs animated icons
 ---
 
 ## 📁 Project Structure
-
-📁 Project Directory Structure
-python
-Copy
-Edit
-icons-hover-effects/
+```
+icons-hover
 │
 ├── index.html                 # Main HTML page (displays icons with hover effects)
 ├── README.md                  # Project documentation file
-│
-├── css/
-│   └── style.css              # All styling for layout and hover animations
-│
-├── assets/
-yaml
-Copy
-Edit
+├── style.css             # All styling for layout and hover animations
+├── dashboard.png
+├── favicon.png
 
+```
 ---
 
 ## 🛠️ Tech Stack
@@ -54,12 +46,14 @@ Edit
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/icons-hover-effects.git
+   git clone https://github.com/shelavalepallavi/icons-hover.git
+   ```
+   
 Navigate to the project directory:
 
-bash
-Copy
-Edit
-cd icons-hover-effects
+```
+cd icons-hover
+
+```
 Open index.html in your browser.
 
