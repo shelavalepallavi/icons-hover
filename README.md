@@ -1,4 +1,4 @@
-# 🎨 Icons Hover Effects Website
+# 🎨 Icons Hover Effects
 
 A creative and interactive web page showcasing **hover effects on icons** using only **HTML** and **CSS**.  
 Perfect for portfolios, landing pages, and any project that needs animated icons to grab user attention!
